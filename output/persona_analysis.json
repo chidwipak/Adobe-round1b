@@ -1,0 +1,210 @@
+{
+  "metadata": {
+    "persona": "Data Scientist",
+    "job_to_be_done": "We are looking for a Data Scientist with expertise in machine learning, deep learning, and statistical analysis. The ideal candidate should have experience with Python, PyTorch, TensorFlow, and be familiar with active learning, neural networks, and computer vision. Knowledge of research papers and academic literature is a plus.",
+    "documents": [
+      {
+        "document_id": "6874ef2e50a4a_adobe_india_hackathon_challenge_doc",
+        "document_name": "6874ef2e50a4a_adobe_india_hackathon_challenge_doc.pdf",
+        "total_pages": 10,
+        "file_size": 474057,
+        "processing_timestamp": "2025-07-28T17:57:36.985972Z"
+      },
+      {
+        "document_id": "Data_Scientist_Resources_Guide",
+        "document_name": "Data_Scientist_Resources_Guide.pdf",
+        "total_pages": 2,
+        "file_size": 2670,
+        "processing_timestamp": "2025-07-28T17:57:37.023363Z"
+      },
+      {
+        "document_id": "OCW_S1U1",
+        "document_name": "OCW_S1U1.pdf",
+        "total_pages": 13,
+        "file_size": 262239,
+        "processing_timestamp": "2025-07-28T17:57:37.380242Z"
+      },
+      {
+        "document_id": "Skilllink",
+        "document_name": "Skilllink.pdf",
+        "total_pages": 4,
+        "file_size": 198774,
+        "processing_timestamp": "2025-07-28T17:57:37.483267Z"
+      },
+      {
+        "document_id": "1906.03671v2",
+        "document_name": "1906.03671v2.pdf",
+        "total_pages": 26,
+        "file_size": 4265486,
+        "processing_timestamp": "2025-07-28T17:57:39.543555Z"
+      },
+      {
+        "document_id": "AgenticAI_Idea_kernelCrew_compressed",
+        "document_name": "AgenticAI_Idea_kernelCrew_compressed.pdf",
+        "total_pages": 10,
+        "file_size": 770956,
+        "processing_timestamp": "2025-07-28T17:57:40.562954Z"
+      },
+      {
+        "document_id": "chidwi_resume_latest",
+        "document_name": "chidwi_resume_latest.pdf",
+        "total_pages": 1,
+        "file_size": 65108,
+        "processing_timestamp": "2025-07-28T17:57:40.659900Z"
+      },
+      {
+        "document_id": "AI_Project",
+        "document_name": "AI_Project.pdf",
+        "total_pages": 2,
+        "file_size": 57393,
+        "processing_timestamp": "2025-07-28T17:57:40.719719Z"
+      },
+      {
+        "document_id": "OCW_S1U2pdf",
+        "document_name": "OCW_S1U2pdf.pdf",
+        "total_pages": 38,
+        "file_size": 1388974,
+        "processing_timestamp": "2025-07-28T17:57:41.351423Z"
+      },
+      {
+        "document_id": "489_active_learning_for_convolutio",
+        "document_name": "489_active_learning_for_convolutio.pdf",
+        "total_pages": 13,
+        "file_size": 4919784,
+        "processing_timestamp": "2025-07-28T17:57:44.069573Z"
+      },
+      {
+        "document_id": "3581783.3612463",
+        "document_name": "3581783.3612463.pdf",
+        "total_pages": 12,
+        "file_size": 1402134,
+        "processing_timestamp": "2025-07-28T17:57:45.424648Z"
+      },
+      {
+        "document_id": "Spark_AI_Connect_Walmart_Idea",
+        "document_name": "Spark_AI_Connect_Walmart_Idea.pdf",
+        "total_pages": 3,
+        "file_size": 3204,
+        "processing_timestamp": "2025-07-28T17:57:45.455809Z"
+      }
+    ],
+    "processing_timestamp": "2025-07-28T17:57:45.495173Z",
+    "total_sections_extracted": 1218,
+    "total_sections_ranked": 12,
+    "processing_time_seconds": 9.2
+  },
+  "extracted_sections": [
+    {
+      "document": "6874ef2e50a4a_adobe_india_hackathon_challenge_doc.pdf",
+      "page": 2,
+      "title": "Rethink Reading. Rediscover Knowledge",
+      "text": "Rethink Reading. Rediscover Knowledge What if every time you opened a PDF, it didnt just sit thereit spoke to you, connected ideas, and narrated meaning across your entire library?",
+      "importance_rank": 1
+    },
+    {
+      "document": "Data_Scientist_Resources_Guide.pdf",
+      "page": 1,
+      "title": "2. Matplotlib vs Seaborn: Visualization Cheat Sheet",
+      "text": "2. Matplotlib vs Seaborn: Visualization Cheat Sheet - Matplotlib: More control, base plotting. - Seaborn: Simplifies plotting with themes and grouped data.",
+      "importance_rank": 2
+    },
+    {
+      "document": "OCW_S1U1.pdf",
+      "page": 1,
+      "title": "First Generation (1940s-1950s):",
+      "text": "First Generation (1940s-1950s): Vacuum tubes used for electronic components. Large and expensive machines. Limited programming capabilities.",
+      "importance_rank": 3
+    },
+    {
+      "document": "Skilllink.pdf",
+      "page": 1,
+      "title": "Abstract: The Home Services Platform is a comprehensive web application designed",
+      "text": "Abstract: The Home Services Platform is a comprehensive web application designed to connect customers with service workers such as electricians, carpenters, plumbers, painters, mechanics, and other skilled professionals. The platform allows customers to request services, browse available workers, select the appropriate ones based on price and ratings, and communicate directly through integrated ch",
+      "importance_rank": 4
+    },
+    {
+      "document": "1906.03671v2.pdf",
+      "page": 1,
+      "title": "ABSTRACT We design a new algorithm for batch active learning with deep neural ne",
+      "text": "ABSTRACT We design a new algorithm for batch active learning with deep neural network models. Our algorithm, Batch Active learning by Diverse Gradient Embeddings (BADGE), samples groups of points that are disparate and high magnitude when represented in a hallucinated gradient space, a strategy designed to incorporate both predictive uncertainty and sample diversity into every selected batch. Cruc",
+      "importance_rank": 5
+    },
+    {
+      "document": "AgenticAI_Idea_kernelCrew_compressed.pdf",
+      "page": 2,
+      "title": "Brief about the idea:",
+      "text": "Brief about the idea: We are developing NeuroCore, an AI-powered smart-city platform that functions like a digital brain to help cities think, decide, and act in real time. At its core are six specialized AI agents Traffic, Safety, Health, Environment, Emergency, and Social each focused on a specific domain. These agents use Googles Gemini and Vertex AI tools to analyze live data and collaborate thr",
+      "importance_rank": 6
+    },
+    {
+      "document": "chidwi_resume_latest.pdf",
+      "page": 1,
+      "title": "Profile Full-Stack Developer and AI enthusiast with expertise in MERN stack and",
+      "text": "Profile Full-Stack Developer and AI enthusiast with expertise in MERN stack and enterprise-grade application development. Proven track record of building scalable solutions that improve operational efficiency by 40. Strong foundation in machine learning, data science, and modern web technologies with hands-on experience across 6 production-ready projects.",
+      "importance_rank": 7
+    },
+    {
+      "document": "AI_Project.pdf",
+      "page": 1,
+      "title": "Abstract: Were building a better Multispace Evolutionary Search (MSES) based on",
+      "text": "Abstract: Were building a better Multispace Evolutionary Search (MSES) based on a research paper. The paper uses a movie-picking system thats too tough for us to explain or codeits super complicated. So, were using 8-puzzle from class because its easy to show, but our MSES can also handle huge problems!",
+      "importance_rank": 8
+    },
+    {
+      "document": "OCW_S1U2pdf.pdf",
+      "page": 1,
+      "title": "A file system is a method used by computers and operating",
+      "text": "A file system is a method used by computers and operating systems to organize, store, and retrieve data. Its a way to manage and structure files on storage devices like hard drives. Simple explanation: Imagine a file system as a big digital drawer where you put all your documents and files.",
+      "importance_rank": 9
+    },
+    {
+      "document": "489_active_learning_for_convolutio.pdf",
+      "page": 1,
+      "title": "ABSTRACT Convolutional neural networks (CNNs) have been successfully applied to",
+      "text": "ABSTRACT Convolutional neural networks (CNNs) have been successfully applied to many recognition and learning tasks using a universal recipe; training a deep model",
+      "importance_rank": 10
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "6874ef2e50a4a_adobe_india_hackathon_challenge_doc.pdf",
+      "page": 2,
+      "parent_section": "Rethink Reading. Rediscover Knowledge",
+      "refined_text": "Welcome to the “Connecting the Dots” Challenge  \n \nRethink Reading.  Rediscover Knowledge  \nWhat if every time you opened a PDF, it didn’t just sit there—it spoke to you, \nconnected ideas, and narrated meaning across your entire library?  \nThat’s the",
+      "relevance_explanation": "This section provides general information that could be relevant to the Data Scientist position, though the connection to specific requirements is less direct.",
+      "relevance_score": 0.0
+    },
+    {
+      "document": "Data_Scientist_Resources_Guide.pdf",
+      "page": 1,
+      "parent_section": "2. Matplotlib vs Seaborn: Visualization Cheat Sheet",
+      "refined_text": "5 Must-Know Resources & Concepts for Data Scientists\n1.  Pandas Tips for Efficient Data Analysis\n- Use `. loc[]` and `.",
+      "relevance_explanation": "This section provides general information that could be relevant to the Data Scientist position, though the connection to specific requirements is less direct.",
+      "relevance_score": 0.0
+    },
+    {
+      "document": "OCW_S1U1.pdf",
+      "page": 1,
+      "parent_section": "First Generation (1940s-1950s):",
+      "refined_text": "    OCW SHORT NOTES \nUNIT:1 \n1)Generations of computers: \n     \n First Generation (1940s-1950s): \n•\nVacuum tubes used for electronic components. \n•\nLarge and expensive machines. \n•\nLimited programming capabilities.",
+      "relevance_explanation": "This section provides general information that could be relevant to the Data Scientist position, though the connection to specific requirements is less direct.",
+      "relevance_score": 0.0
+    },
+    {
+      "document": "Skilllink.pdf",
+      "page": 1,
+      "parent_section": "Abstract: The Home Services Platform is a comprehensive web application designed",
+      "refined_text": "              FFSD PROJECT \nTITLE :\nSkillLink- Microjob Marketplace for Rural, Semi-\nUrban, and Urban India. \nPROJECT DETAILS:\n• Abstract:\nThe Home Services Platform is a comprehensive web \napplication designed to connect customers with service \nwork",
+      "relevance_explanation": "This section provides general information that could be relevant to the Data Scientist position, though the connection to specific requirements is less direct.",
+      "relevance_score": 0.0
+    },
+    {
+      "document": "1906.03671v2.pdf",
+      "page": 1,
+      "parent_section": "ABSTRACT We design a new algorithm for batch active learning with deep neural ne",
+      "refined_text": "Published as a conference paper at ICLR 2020\nDEEP BATCH ACTIVE LEARNING BY\nDIVERSE, UNCERTAIN GRADIENT LOWER BOUNDS\nJordan T.  Ash\nPrinceton University\nChicheng Zhang\nUniversity of Arizona\nAkshay Krishnamurthy\nMicrosoft Research NYC\nJohn Langford\nMic",
+      "relevance_explanation": "This section provides general information that could be relevant to the Data Scientist position, though the connection to specific requirements is less direct.",
+      "relevance_score": 0.0
+    }
+  ]
+}

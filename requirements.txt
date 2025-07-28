@@ -1,0 +1,8 @@
+pymupdf==1.23.26
+numpy==1.26.2
+sentence-transformers==3.0.1
+transformers==4.36.0
+networkx==3.2.1
+scikit-learn==1.3.2
+langdetect==1.0.9
+sumy==0.11.0 

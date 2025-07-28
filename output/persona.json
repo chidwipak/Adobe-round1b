@@ -1,0 +1,6 @@
+{
+    "name": "Data Scientist",
+    "job_to_be_done": "We are looking for a Data Scientist with expertise in machine learning, deep learning, and statistical analysis. The ideal candidate should have experience with Python, PyTorch, TensorFlow, and be familiar with active learning, neural networks, and computer vision. Knowledge of research papers and academic literature is a plus.",
+    "interests": ["machine learning", "deep learning", "active learning", "computer vision", "nlp", "data science", "python", "pytorch", "tensorflow", "neural networks", "research papers"],
+    "expertise_level": "intermediate"
+}
